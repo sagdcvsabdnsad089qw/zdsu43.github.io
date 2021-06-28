@@ -1,3 +1,1 @@
-*{
-    font-family: Arial, Helvetica, sans-serif;
-}
+*{margin: 0;padding: 0;box-sizing: border-box;font-family: Arial, Helvetica, sans-serif;}/*menu*/.menu{background: rgb(62, 130, 255);user-select: none;padding: 10px;}#menu{color: #fff;text-decoration: none;padding: 10px;}
